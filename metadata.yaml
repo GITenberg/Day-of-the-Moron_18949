@@ -1,0 +1,32 @@
+_repo: Day-of-the-Moron_18949
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Piper, H. Beam
+    alias: Piper, Henry Beam
+    birthdate: 1904
+    deathdate: 1964
+    gutenberg_agent_id: '8301'
+    url: http://www.gutenberg.org/2009/agents/8301
+    wikipedia: http://en.wikipedia.org/wiki/H._Beam_Piper
+description: It's natural to trust the unproven word of the fellow who's "on my side"--but
+  the emotional moron is on no one's side, not even his own. Once, such an emotional
+  moron could, at worst, hurt a few. But with the mighty, leashed forces Man employs
+  now.
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2006-07-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18949'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+title: Day of the Moron
+url: http://www.gutenberg.org/ebooks/18949
